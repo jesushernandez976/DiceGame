@@ -1,0 +1,2 @@
+# DiceGame
+ Basic diece randomizer
